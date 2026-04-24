@@ -28,7 +28,6 @@
 📘 ProBlog
 Next.js, React, TypeScript, PostgreSQL, Prisma, Vercel
 Социальная сеть с постами, авторизацией и профилями.
-🏆 Участие в конкурсе «100 идей для Беларуси»
 
 🧠 Финансовая грамотность
 TypeScript, React, Next.js, PostgreSQL, SCSS
