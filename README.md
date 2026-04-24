@@ -8,14 +8,14 @@
 ✔️ всегда довожу проект до живого демо
 
 🛠️ Технологии и Инструменты
-https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white
-https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white
-https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black
-https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white
-https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white
-https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white
-https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
 
 🤝 Софт скиллы
 Лидерский опыт — руководил командой на 3 хакатонах
